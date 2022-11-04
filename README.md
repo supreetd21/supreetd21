@@ -2,9 +2,8 @@
 
 - Interested in solving problems around large scale systems.
 - Finishing up masters at Carnegie Mellon University.
-- [Resume](https://github.com/supreetd21/resume/blob/main/SupreetDeshpandeResume.pdf)
-- Worked in Golang, C++, C, Python.
-- Have worked on a bunch of things ranging from backend development to systems programming.
+- Worked in C, Golang, Python.
+- Have worked on a bunch of things ranging from distributed systems to systems programming.
 - Some of my systems work is open-source
   - [Esptool](https://github.com/espressif/esptool/commits?author=supreetd21)
   - [Secure Boot](https://github.com/espressif/esp-idf/commits?author=supreetd21)
